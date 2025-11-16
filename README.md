@@ -41,7 +41,6 @@
 <div align="center">
   <a href="https://github.com/MazenHesham">
     <img src="https://github-readme-stats.vercel.app/api?username=MazenHesham&show_icons=true&theme=github_dark&count_private=true" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazenHesham&layout=compact&theme=github_dark" width="375"/>
   </a>
 </div>
 

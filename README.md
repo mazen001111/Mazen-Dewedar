@@ -26,10 +26,13 @@
 - 📫 Email: **[mazenhesham172@gmail.com](mailto:mazenhesham172@gmail.com)**  
 
 ---
-
 ## 🛠️ Languages & Frameworks
 
 <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
@@ -43,7 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="TailwindCSS"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  &nbsp;
+
 </p>
+
 
 ---
 
@@ -68,23 +74,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MazenHeshham&show_icons=true&theme=dark&count_private=true" alt="GitHub stats"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MazenHeshham/MazenHeshham/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
-*The snake automatically updates daily with your contributions!*  
 
 ---
 
